@@ -1,4 +1,4 @@
-# 🌲 Fuzzle Browser
+# 🟢 Fuzzle Browser 🟢
 
 Fuzzle Browser is a lightweight, futuristic web browser interface built in HTML, CSS, and JavaScript. It features a fully animated, forest-themed UI with a custom new tab page (NTP), quick links, and multi-tab support.  
 
