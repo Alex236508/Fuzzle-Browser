@@ -2,7 +2,7 @@
 
 Fuzzle Browser is a lightweight, futuristic web browser interface built in HTML, CSS, and JavaScript. It features a fully animated, forest-themed UI with a custom new tab page (NTP), quick links, and multi-tab support.  
 
-This project uses [UV Proxy](https://github.com/operasoftware/uv) to safely proxy and render websites inside the browser without cross-origin issues.
+This project uses [UV Proxy](https://github.com/titaniumnetwork-dev/Ultraviolet) to safely proxy and render websites inside the browser without cross-origin issues.
 
 ---
 
