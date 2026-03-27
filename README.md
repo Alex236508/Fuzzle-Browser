@@ -8,7 +8,7 @@ This project uses [UV Proxy](https://github.com/titaniumnetwork-dev/Ultraviolet)
 
 ## Features
 
-- Animated forest-themed gradients and UI elements.
+- Animated Fuzzle-themed gradients and UI elements.
 - Multi-tab support with close and navigation controls.
 - New Tab Page with a starry background and quick links.
 - URL bar with auto-normalization for direct search or site entry.
